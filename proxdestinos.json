@@ -1,0 +1,37 @@
+[
+{
+"id":"1",
+"pais":"Argentina",
+"ciudad":"Bariloche",
+"fecha":"",
+"evento":"Sesion de fotos a cielo abierto"
+},
+{
+"id":"2",
+"pais":"Chile",
+"ciudad":"Santiago",
+"fecha":"",
+"evento":"Sesion de fotos naturaleza"
+},
+{
+"id":"2",
+"pais":"Bolivia",
+"ciudad":"",
+"fecha":"",
+"evento":"workshop fotografia B/N"
+},
+{
+"id":"3",
+"pais":"Peru",
+"ciudad":"",
+"fecha":"",
+"evento":"Sesion de fotos"
+},
+{
+"id":"4",
+"pais":"Uruguay",
+"ciudad":"",
+"fecha":"",
+"evento":"workshop fotografia inmersiva"
+},
+]
