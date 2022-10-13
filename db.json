@@ -1,3 +1,4 @@
+[
   {
     "id": "1",
     "pais": "Chile",
@@ -11,4 +12,26 @@
     "ciudad": "Montevideo",
     "fecha": "",
     "evento": "Sesion de fotos"
+  },
+  {
+    "id": "3",
+    "pais": "Bolivia",
+    "ciudad": "",
+    "fecha": "",
+    "evento": "Workshop"
+  },
+  {
+    "id": "4",
+    "pais": "Argentina",
+    "ciudad": "Bariloche",
+    "fecha": "",
+    "evento": "Sesion de fotos"
+  },
+  {
+    "id": "5",
+    "pais": "Costa rica",
+    "ciudad": "",
+    "fecha": "",
+    "evento": "Workshop"
   }
+]
