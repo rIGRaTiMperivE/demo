@@ -3,35 +3,35 @@
     "id": "1",
     "pais": "Chile",
     "ciudad": "Santiago",
-    "fecha": "",
+    "fecha": "02/01/2023",
     "evento": "Workshop"
   },
   {
     "id": "2",
     "pais": "Uruguay",
     "ciudad": "Montevideo",
-    "fecha": "",
+    "fecha": "04/03/2023",
     "evento": "Sesion de fotos"
   },
   {
     "id": "3",
     "pais": "Bolivia",
-    "ciudad": "",
-    "fecha": "",
+    "ciudad": "La Paz",
+    "fecha": "07/07/2023",
     "evento": "Workshop"
   },
   {
     "id": "4",
     "pais": "Argentina",
     "ciudad": "Bariloche",
-    "fecha": "",
+    "fecha": "21/09/2023",
     "evento": "Sesion de fotos"
   },
   {
     "id": "5",
     "pais": "Costa rica",
-    "ciudad": "",
-    "fecha": "",
+    "ciudad": "Puerto Limon",
+    "fecha": "25/12/2023",
     "evento": "Workshop"
   }
 ]
